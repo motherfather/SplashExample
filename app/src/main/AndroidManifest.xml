@@ -10,8 +10,7 @@
         android:theme="@style/AppTheme">
 
         <activity
-            android:name="com.bit2016.splashexample.MainActivity"
-            android:theme="@style/Transparent">
+            android:name="com.bit2016.splashexample.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
