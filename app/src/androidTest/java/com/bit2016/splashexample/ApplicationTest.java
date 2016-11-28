@@ -1,4 +1,4 @@
-package com.estsoft.splashexample;
+package com.bit2016.splashexample;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

@@ -1,4 +1,4 @@
-package com.estsoft.splashexample;
+package com.bit2016.splashexample;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

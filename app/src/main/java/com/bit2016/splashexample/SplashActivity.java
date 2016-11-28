@@ -1,4 +1,4 @@
-package com.estsoft.splashexample;
+package com.bit2016.splashexample;
 
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;

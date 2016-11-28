@@ -1,4 +1,4 @@
-package com.estsoft.splashexample;
+package com.bit2016.splashexample;
 
 import org.junit.Test;
 
